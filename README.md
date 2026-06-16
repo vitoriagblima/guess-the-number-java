@@ -12,7 +12,7 @@ A simple command-line number guessing game built with Java to practice programmi
 The computer selects a random number between **1 and 50**, and the player has **7 attempts** to guess it. After each guess, the game tells if the secret number is higher or lower.
 
 ### Quick Access
-* **Source Code:** [`src/GuessingGame.java`](../src/GuessingGame.java) 📄
+* **Source Code:** [`src/GuessingGame.java`](src/GuessingGame.java) 📄
 
 ## Concepts Applied
 
