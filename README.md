@@ -22,14 +22,20 @@ The computer selects a random number between **1 and 50**, and the player has **
 * **Input/Output:** Handled using `java.util.Scanner` and terminal outputs.
 * **Math:** Random number generation using `Math.random()` with type casting.
 
-### Prerequisites
+## Prerequisites
 * Java Development Kit (JDK) 8 or higher.
 
-### Execution
+## How to Run
 
-Abra o seu terminal e execute os comandos abaixo:
+Open your terminal and run the following commands:
 
-1. **Compile** o arquivo:
-
+1. **Compile** the file:
 ```bash
 javac src/GuessingGame.java
+
+```
+
+2. **Run** the game:
+```bash
+java -cp src GuessingGame
+```
